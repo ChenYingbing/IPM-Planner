@@ -8,11 +8,11 @@
 
 This is the project page of the paper "**Real-Time Speed Planning for Autonomous Driving in Dynamic Environment with Interaction Point Model**".
 
-[![Watch the video](./picts/iros2022-IPM.png)](https://www.youtube.com/watch?v=uWk0ft2IP30)
+<!-- [![Watch the video](./picts/iros2022-IPM.png)](https://www.youtube.com/watch?v=uWk0ft2IP30) TO BE REPLACED. -->
 
 ## 2. Complementary Videos
 
-- Pairs of interactions from INTERACTION dataset [1].
+- Pairs of interactions from the INTERACTION dataset [1].
 
 ![interaction_scenes](./picts/interaction_scenes.gif)
 
