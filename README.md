@@ -1,6 +1,6 @@
 # IPM Planner
 
-- 03/11/2022: Initialization.
+- 03/20/2022: Initialization.
 
 
 
@@ -8,7 +8,7 @@
 
 This is the project page of the paper "**Real-Time Speed Planning for Autonomous Driving in Dynamic Environment with Interaction Point Model**".
 
-[![Watch the video](./picts/iros2022-IPM.png)](https://www.youtube.com/watch?v=uWk0ft2IP30)
+[![Watch the video](./picts/iros2022-IPM-k.jpg)](https://youtu.be/9BWw43VIs_I)
 
 ## 2. Complementary Videos
 
