@@ -6,7 +6,7 @@
 
 IPM-Planner/
 
-- mlp_model/: MLP model .py .pt files.
+- mlp_model: MLP model .py .pt files.
 
 
 
