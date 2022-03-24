@@ -2,6 +2,12 @@
 
 - 03/20/2022: Initialization.
 
+## 0. Structure
+
+IPM-Planner/
+
+- mlp_model/: MLP model .py .pt files.
+
 
 
 ## 1. Introduction
@@ -10,7 +16,9 @@ This is the project page of the paper "**Real-Time Speed Planning for Autonomous
 
 [![Watch the video](./picts/iros2022-IPM-k.jpg)](https://youtu.be/9BWw43VIs_I)
 
-## 2. Complementary Videos
+
+
+# 2. Complementary Videos
 
 - Pairs of interactions from the INTERACTION dataset [1].
 
