@@ -3,17 +3,25 @@
 - 03/20/2022: Initialization.
 
 ## 0. Structure
-
-IPM-Planner/
-
-- mlp_model: MLP model .py .pt files.
+```
+└── IPM-Planner
+    ├── mlp_model					 - Trained MLP model files
+    │   ├── ipmodel.ckpt
+    │   ├── ipmodel.pt
+    │   └── mlp_model.py
+    ├── picts
+    │   ├── interaction_scenes.gif
+    │   ├── cover-IPM-k.jpg
+    │   └── cover-IPM-w.png
+    └── README.md
+```
 
 
 ## 1. Introduction
 
 This is the project page of the paper "**Real-Time Speed Planning for Autonomous Driving in Dynamic Environment with Interaction Point Model**".
 
-[![Watch the video](./picts/iros2022-IPM-k.jpg)](https://youtu.be/9BWw43VIs_I)
+[![Watch the video](./picts/cover-IPM-k.jpg)](https://youtu.be/9BWw43VIs_I)
 
 
 
