@@ -5,7 +5,7 @@
 ## 0. Structure
 ```
 IPM-Planner
-├── mlp_model				- Trained MLP model files
+├── mlp_model     - Trained MLP model files
 │   ├── ipmodel.ckpt
 │   ├── ipmodel.pt
 │   └── mlp_model.py
