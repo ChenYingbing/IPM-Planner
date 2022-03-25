@@ -5,13 +5,19 @@
 ## 0. Structure
 ```
 IPM-Planner
-├── mlp_model                   - Trained MLP model files
+├── dt_model                    - Protection time: fitting curves
+│   ├── coef_dv2maxdt.bin
+│   ├── coef_mradian2maxdt.bin
+│   └── dtmodel.py
+├── mlp_model                   - Priority: Trained MLP
 │   ├── ipmodel.ckpt
 │   ├── ipmodel.pt
 │   └── mlp_model.py
 ├── picts
 │   ├── interaction_scenes.gif
 │   └── cover-IPM-k.png
+├── utils
+│   └── bin_file_io.py
 └── README.md
 ```
 
