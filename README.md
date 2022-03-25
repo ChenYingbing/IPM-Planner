@@ -1,7 +1,5 @@
 # IPM-Planner
 
-[TOC]
-
 - 03/20/2022: Initialization.
 
 ## 1 Structure
