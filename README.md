@@ -4,16 +4,15 @@
 
 ## 0. Structure
 ```
-└── IPM-Planner
-    ├── mlp_model					 - Trained MLP model files
-    │   ├── ipmodel.ckpt
-    │   ├── ipmodel.pt
-    │   └── mlp_model.py
-    ├── picts
-    │   ├── interaction_scenes.gif
-    │   ├── cover-IPM-k.jpg
-    │   └── cover-IPM-w.png
-    └── README.md
+IPM-Planner
+├── mlp_model					- Trained MLP model files
+│   ├── ipmodel.ckpt
+│   ├── ipmodel.pt
+│   └── mlp_model.py
+├── picts
+│   ├── interaction_scenes.gif
+│   └── cover-IPM-k.png
+└── README.md
 ```
 
 
@@ -21,13 +20,13 @@
 
 This is the project page of the paper "**Real-Time Speed Planning for Autonomous Driving in Dynamic Environment with Interaction Point Model**".
 
-[![Watch the video](./picts/cover-IPM-k.jpg)](https://youtu.be/9BWw43VIs_I)
+[![Watch the video](./picts/cover-IPM-k.png)](https://youtu.be/9BWw43VIs_I)
 
 
 
 # 2. Complementary Videos
 
-- Pairs of interactions from the INTERACTION dataset [1].
+- Pairs of interactions from the INTERACTION dataset [1], where "**x**" denotes the interaction point.
 
 ![interaction_scenes](./picts/interaction_scenes.gif)
 
