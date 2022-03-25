@@ -8,18 +8,6 @@ IPM-Planner/
 
 - mlp_model: MLP model .py .pt files.
 
-dirTree
-  │
-  ├─lib
-  │  │
-  │  └dirTree.js
-  │
-  ├─README.md
-  │
-  ├─conf.js
-  │
-  └─tree.js
-
 
 ## 1. Introduction
 
