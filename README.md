@@ -1,8 +1,11 @@
-# IPM Planner
+# IPM-Planner
+
+[TOC]
 
 - 03/20/2022: Initialization.
 
-## 0. Structure
+## 1 Structure
+
 ```
 IPM-Planner
 ├── dt_model                    - Protection time: fitting curves
@@ -13,16 +16,12 @@ IPM-Planner
 │   ├── ipmodel.ckpt
 │   ├── ipmodel.pt
 │   └── mlp_model.py
-├── picts
-│   ├── interaction_scenes.gif
-│   └── cover-IPM-k.png
-├── utils
-│   └── bin_file_io.py
-└── README.md
+└── utils						- bin file io
+    └── bin_file_io.py
 ```
 
 
-## 1. Introduction
+## 2 Introduction
 
 This is the project page of the paper "**Real-Time Speed Planning for Autonomous Driving in Dynamic Environment with Interaction Point Model**".
 
@@ -30,7 +29,7 @@ This is the project page of the paper "**Real-Time Speed Planning for Autonomous
 
 
 
-# 2. Complementary Videos
+## 3 Complementary Videos
 
 - Pairs of interactions from the INTERACTION dataset [1], where "**x**" denotes the interaction point.
 
