@@ -10,7 +10,7 @@ IPM-Planner
 │   ├── coef_dv2maxdt.bin
 │   ├── coef_mradian2maxdt.bin
 │   └── dtmodel.py
-├── mlp_model                   - Priority: Trained MLP
+├── mlp_model                   - Priority: trained MLP
 │   ├── ipmodel.ckpt
 │   ├── ipmodel.pt
 │   └── mlp_model.py
