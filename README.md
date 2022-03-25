@@ -16,7 +16,7 @@ IPM-Planner
 │   ├── ipmodel.ckpt
 │   ├── ipmodel.pt
 │   └── mlp_model.py
-└── utils						- bin file io
+└── utils                       - bin file io
     └── bin_file_io.py
 ```
 
