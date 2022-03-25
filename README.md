@@ -2,7 +2,7 @@
 
 - 03/20/2022: Initialization.
 
-## 1 Structure
+## Structure
 
 ```
 IPM-Planner
@@ -19,7 +19,7 @@ IPM-Planner
 ```
 
 
-## 2 Introduction
+## Introduction
 
 This is the project page of the paper "**Real-Time Speed Planning for Autonomous Driving in Dynamic Environment with Interaction Point Model**".
 
@@ -27,7 +27,7 @@ This is the project page of the paper "**Real-Time Speed Planning for Autonomous
 
 
 
-## 3 Complementary Videos
+## Complementary Videos
 
 - Pairs of interactions from the INTERACTION dataset [1], where "**x**" denotes the interaction point.
 
