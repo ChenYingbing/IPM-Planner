@@ -7,8 +7,6 @@
 ```
 IPM-Planner
 ├── dt_model                    - Protection time: fitting curves
-│   ├── coef_dv2maxdt.bin
-│   ├── coef_mradian2maxdt.bin
 │   └── dtmodel.py
 ├── mlp_model                   - Priority: trained MLP
 │   ├── ipmodel.ckpt
