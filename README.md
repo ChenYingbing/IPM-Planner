@@ -1,13 +1,14 @@
 # IPM-Planner
 
-- 03/20/2022: Initialization.
+- 2022/03/20: Initialization.
+- 2022/07/14: Update with separate fitting curves
 
 ## Structure
 
 ```
 IPM-Planner
 ├── dt_model                    - Protection time: fitting curves
-│   └── dtmodel.py
+│   └── dtmodel.py				- fitting coeffients C_{1-4}
 ├── mlp_model                   - Priority: trained MLP
 │   ├── ipmodel.ckpt
 │   ├── ipmodel.pt
