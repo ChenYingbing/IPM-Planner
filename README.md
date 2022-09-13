@@ -21,7 +21,7 @@ IPM-Planner
 
 ## Introduction
 
-This is the project page of the paper "**Real-Time Speed Planning for Autonomous Driving in Dynamic Environment with Interaction Point Model**".
+This is the project page of the paper "**Efficient Speed Planning for Autonomous Driving in Dynamic Environment with Interaction Point Model**".
 
 [![Watch the video](./picts/cover-IPM-k.png)](https://youtu.be/n644Pj4Q9yo)
 
