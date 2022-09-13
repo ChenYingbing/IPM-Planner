@@ -1,7 +1,8 @@
 # IPM-Planner
 
 - 2022/03/20: Initialization.
-- 2022/07/14: Update with separate fitting curves
+- 2022/07/14: Update with separate fitting curves.
+- 2022/09/04: Accepted by RA-L.
 
 ## Structure
 
