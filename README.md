@@ -27,6 +27,18 @@ This is the project page of the paper "**Efficient Speed Planning for Autonomous
 
 
 
+The preprint version of our paper presenting the dataset is now available on arXiv: https://arxiv.org/abs/2209.09013.
+
+
+
+## CITATION
+
+```
+TODO
+```
+
+
+
 ## Complementary Videos
 
 - Pairs of interactions from the INTERACTION dataset [1], where "**x**" denotes the interaction point.
