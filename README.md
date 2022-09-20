@@ -25,7 +25,7 @@ This is the project page of the paper "**Efficient Speed Planning for Autonomous
 
 **Abstract**: Safely interacting with other traffic participants is one of the core requirements for autonomous driving, especially in intersections and occlusions.
 Most existing approaches are designed for particular scenarios and require significant human labor in parameter tuning to be applied to different situations.
-To solve this problem, we first propose a learning-based Interaction Point Model (IPM), which describes the interaction between agents with the \textit{protection time} and \textit{interaction priority} in a unified manner. We further integrate the proposed IPM into a novel planning framework, demonstrating its effectiveness and robustness through comprehensive simulations in highly dynamic environments.
+To solve this problem, we first propose a learning-based Interaction Point Model (IPM), which describes the interaction between agents with the *protection time* and *interaction priority* in a unified manner. We further integrate the proposed IPM into a novel planning framework, demonstrating its effectiveness and robustness through comprehensive simulations in highly dynamic environments.
 
 [![Watch the video](./picts/cover-IPM-k.png)](https://youtu.be/n644Pj4Q9yo)
 
