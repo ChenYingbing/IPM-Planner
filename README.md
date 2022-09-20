@@ -27,7 +27,7 @@ This is the project page of the paper "**Efficient Speed Planning for Autonomous
 
 
 
-The preprint version of our paper presenting the dataset is now available on arXiv: https://arxiv.org/abs/2209.09013.
+The preprint version of our paper presenting the IPM-based planner is now available on arXiv: https://arxiv.org/abs/2209.09013.
 
 
 
