@@ -35,7 +35,13 @@ The preprint version of our paper presenting the IPM-based planner is now availa
 ## CITATION
 
 ```
-TODO
+@article{chen2022efficient,
+  title={Efficient Speed Planning for Autonomous Driving in Dynamic Environment with Interaction Point Model},
+  author={Chen, Yingbing and Xin, Ren and Cheng, Jie and Zhang, Qingwen and Mei, Xiaodong and Liu, Ming and Wang, Lujia},
+  journal={IEEE Robotics and Automation Letters},
+  year={2022},
+  publisher={IEEE}
+}
 ```
 
 
