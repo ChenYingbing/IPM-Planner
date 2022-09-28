@@ -46,7 +46,7 @@ The preprint version of our paper presenting the IPM-based planner is now availa
 
 
 
-## Complementary Videos
+## Supplementary Videos
 
 - Pairs of interactions from the INTERACTION dataset [1], where "**x**" denotes the interaction point.
 
